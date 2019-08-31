@@ -30,5 +30,5 @@ Then, Download or Clone this repository. Use your favorite IDE to run the .py fi
 >
 > vs = VideoStream(src=0).start()
 
-# Side Note
+# NB
 If you are doing any project similar to this, feel free to contact me. I would try to cooperate as much as possible. We have plans to take this project further and add new features as we progress. Hopefully in future it wouldn't remain a pseudo-project anymore, rather would become a complete application.
