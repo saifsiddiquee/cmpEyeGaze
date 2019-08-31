@@ -14,21 +14,21 @@ Gaze-based interaction between human and computers has opened a potential domain
 # How to Run
 First prepare your environment and check if you have all the required library packages installed and configured. Dependencies for this project are:
 
-numpy
-scipy
-opencv
-dlib
-imutils
-pyautogui
+* numpy
+* scipy
+* opencv
+* dlib
+* imutils
+* pyautogui
 Then, Download or Clone this repository. Use your favorite IDE to run the .py file.
 
-If for some reason your camera is not turning on try changing 'src = 1' to 'src = 0' in line 169.
-
-vs = VideoStream(src=1).start()
-
-To
-
-vs = VideoStream(src=0).start()
+> If for some reason your camera is not turning on try changing 'src = 1' to 'src = 0' in line 169.
+>
+> vs = VideoStream(src=1).start()
+>
+> To
+>
+> vs = VideoStream(src=0).start()
 
 # Side Note
 If you are doing any project similar to this, feel free to contact me. I would try to cooperate as much as possible. We have plans to take this project further and add new features as we progress. Hopefully in future it wouldn't remain a pseudo-project anymore, rather would become a complete application.
